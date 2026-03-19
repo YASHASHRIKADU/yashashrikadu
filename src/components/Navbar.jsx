@@ -66,7 +66,7 @@ export default function Navbar() {
                 {/* Right: Download CV */}
                 <div className="hidden md:flex items-center gap-3">
                     <motion.a
-                        href="https://drive.google.com/file/d/1pBoOUT2aiake8SdvB2EvNPAt76otGu11/view?usp=sharing"
+                        href="https://drive.google.com/file/d/13mEvhx5Y0nOiVrLwKKxlxHtzGIkIPCJZ/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         whileHover={{ scale: 1.05 }}
