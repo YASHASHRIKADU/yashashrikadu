@@ -80,6 +80,18 @@ I'm a **Computer Science & Engineering student at P. R. Pote Patil College of En
 
 ---
 
+### 🧭 CodeNavigator – Developer Tool (Live)
+
+> A web-based developer utility with a live deployment.
+
+**Links:**
+- 🌐 **Live Demo:** https://code-navigator-blond.vercel.app
+- 💻 **Repository:** https://github.com/YASHASHRIKADU/CodeNavigator
+
+**Primary Tech:** JavaScript
+
+---
+
 ### 🏦 Finance Access Engine (Backend) – REST API + JWT + Swagger
 
 > A modular backend system implementing REST APIs for financial data processing, role-based access control, secure authentication (JWT), and analytics endpoints, with full Swagger documentation.
