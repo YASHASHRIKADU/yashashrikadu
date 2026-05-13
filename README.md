@@ -65,6 +65,18 @@ I'm a **Computer Science & Engineering student at P. R. Pote Patil College of En
 
 ---
 
+### 🧭 CodeNavigator – Developer Tool (Live)
+
+> A web-based developer utility with a live deployment.
+
+**Links:**
+- 🌐 **Live Demo:** https://code-navigator-blond.vercel.app
+- 💻 **Repository:** https://github.com/YASHASHRIKADU/CodeNavigator
+
+**Primary Tech:** JavaScript
+
+---
+
 ### 🗂️ Project Tracker – Full Stack Project Management App
 
 > A full-stack project tracker application with a live deployment.
@@ -77,18 +89,6 @@ I'm a **Computer Science & Engineering student at P. R. Pote Patil College of En
 - 💻 **Repository:** https://github.com/YASHASHRIKADU/project-tracker
 
 **Primary Tech:** TypeScript
-
----
-
-### 🧭 CodeNavigator – Developer Tool (Live)
-
-> A web-based developer utility with a live deployment.
-
-**Links:**
-- 🌐 **Live Demo:** https://code-navigator-blond.vercel.app
-- 💻 **Repository:** https://github.com/YASHASHRIKADU/CodeNavigator
-
-**Primary Tech:** JavaScript
 
 ---
 
