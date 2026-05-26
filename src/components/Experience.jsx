@@ -27,6 +27,18 @@ const experiences = [
         color: 'from-violet-500 to-purple-600',
         badge: 'bg-violet-500/10 border-violet-500/25 text-violet-300',
     },
+    {
+        company: 'Eduskill',
+        role: 'AI-ML Virtual Internship',
+        duration: 'July 2025 - Sept 2025',
+        type: 'Virtual Internship',
+        points: [
+            'Completed a 10-week AI-ML virtual internship with hands-on machine learning and data processing.',
+            'Built skills in machine learning, data analysis, and problem-solving.',
+        ],
+        color: 'from-emerald-500 to-teal-600',
+        badge: 'bg-emerald-500/10 border-emerald-500/25 text-emerald-300',
+    },
 ]
 
 export default function Experience() {
