@@ -33,6 +33,36 @@ const projects = [
         gradient: 'from-violet-500 to-purple-600',
         techBadge: 'bg-violet-500/10 border-violet-500/25 text-violet-300',
     },
+    {
+        title: 'CodeNavigator | Smart Learning Path Generator',
+        date: 'May 2026',
+        description:
+            'A smart learning path generator that delivers personalized career roadmaps with skill tracking and resources.',
+        features: [
+            'Personalized career roadmap generation',
+            'Backend-driven skills and resource fetching',
+            'Progress tracking for learning milestones',
+        ],
+        techs: ['React.js', 'Node.js', 'Express.js', 'MongoDB', 'REST APIs', 'JavaScript'],
+        live: 'https://code-navigator-blond.vercel.app/',
+        gradient: 'from-emerald-500 to-teal-600',
+        techBadge: 'bg-emerald-500/10 border-emerald-500/25 text-emerald-300',
+    },
+    {
+        title: 'Smart Object Detection and Recognition System',
+        date: 'April 2026',
+        description:
+            'An AI-based system that detects objects in real time and provides audio feedback to assist visually impaired users.',
+        features: [
+            'Real-time object detection via camera input',
+            'Audio feedback with text-to-speech assistance',
+            'Accessible, safety-focused experience',
+        ],
+        techs: ['Python', 'YOLOv8', 'OpenCV', 'SQLite'],
+        live: 'https://object-detection-jade-five.vercel.app/',
+        gradient: 'from-cyan-500 to-blue-600',
+        techBadge: 'bg-cyan-500/10 border-cyan-500/25 text-cyan-300',
+    },
 ]
 
 export default function Projects() {
