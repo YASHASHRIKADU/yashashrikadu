@@ -6,7 +6,7 @@ const educationData = [
     {
         degree: 'Bachelor of Engineering in Computer Science & Engineering',
         institution: 'P. R. Pote Patil College of Engineering & Management',
-        grade: 'CGPA: 7.5 / 10',
+        grade: 'CGPA: 7.61 / 10',
         period: 'Aug 2022 – May 2026',
         location: 'Amravati, Maharashtra',
         type: 'BE / B.Tech',
