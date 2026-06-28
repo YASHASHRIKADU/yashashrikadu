@@ -59,9 +59,7 @@ export default function About() {
                             Amravati, Maharashtra.
                         </p>
                         <p className="text-slate-400 leading-relaxed">
-                            I'm passionate about full-stack web development and enjoy crafting clean, scalable
-                            applications that solve real-world problems. I have hands-on experience with Java,
-                            React, Node.js, and modern web technologies.
+                           am a Computer Science Engineering graduate passionate about building scalable, production-grade web applications using Java, MERN Stack, Spring Boot, and REST APIs — turning real-world problems into clean, deployed solutions.
                         </p>
                         <div className="flex flex-wrap gap-4 pt-2">
                             <div className="flex items-center gap-2 text-sm text-slate-400">
@@ -74,7 +72,7 @@ export default function About() {
                             </div>
                         </div>
                         <div className="flex gap-4 pt-2">
-                            {[['2+', 'Projects'], ['2', 'Internships'], ['7.5', 'CGPA']].map(([val, label]) => (
+                            {[['2+', 'Projects'], ['2', 'Internships'], ['7.61', 'CGPA']].map(([val, label]) => (
                                 <div key={label} className="glass-dark px-5 py-3 rounded-xl text-center">
                                     <div className="text-2xl font-bold gradient-text">{val}</div>
                                     <div className="text-xs text-slate-500 mt-0.5">{label}</div>
