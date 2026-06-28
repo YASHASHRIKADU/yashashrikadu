@@ -59,7 +59,7 @@ export default function About() {
                             Amravati, Maharashtra.
                         </p>
                         <p className="text-slate-400 leading-relaxed">
-                           am a Computer Science Engineering graduate passionate about building scalable, production-grade web applications using Java, MERN Stack, Spring Boot, and REST APIs — turning real-world problems into clean, deployed solutions.
+                          I am a Computer Science Engineering graduate passionate about building scalable, production-grade web applications using Java, MERN Stack, Spring Boot, and REST APIs — turning real-world problems into clean, deployed solutions.
                         </p>
                         <div className="flex flex-wrap gap-4 pt-2">
                             <div className="flex items-center gap-2 text-sm text-slate-400">
