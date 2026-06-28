@@ -5,14 +5,14 @@ const skillGroups = [
     {
         category: 'Languages',
         emoji: '⬤',
-        skills: ['Java', 'JavaScript', 'TypeScript'],
+        skills: ['Java (Java 8+)', 'JavaScript (ES6+)', 'TypeScript'],
         color: 'from-blue-500 to-indigo-500',
         light: 'bg-blue-500/10 border-blue-500/30 text-blue-300',
     },
     {
-        category: 'Frameworks',
+        category: 'Frameworks & Libraries',
         emoji: '⬤',
-        skills: ['React.js', 'Angular', 'Bootstrap'],
+        skills: ['React.js', 'Angular', 'Bootstrap', 'Express', 'Spring Boot', 'Hibernate'],
         color: 'from-indigo-500 to-violet-500',
         light: 'bg-indigo-500/10 border-indigo-500/30 text-indigo-300',
     },
@@ -26,17 +26,18 @@ const skillGroups = [
     {
         category: 'Web Technologies',
         emoji: '⬤',
-        skills: ['HTML', 'CSS'],
+        skills: ['HTML5', 'CSS3','Node.js'],
         color: 'from-orange-400 to-rose-500',
         light: 'bg-orange-500/10 border-orange-500/30 text-orange-300',
     },
     {
-        category: 'Tools & IDEs',
+        category: 'Tools & Platform',
         emoji: '⬤',
-        skills: ['Git', 'GitHub', 'Eclipse', 'IntelliJ IDEA', 'VS Code'],
+        skills: ['Git', 'GitHub', 'Eclipse', 'IntelliJ IDEA', 'VS Code', 'Vercel', 'Render', 'JDBC'],
         color: 'from-emerald-500 to-teal-500',
         light: 'bg-emerald-500/10 border-emerald-500/30 text-emerald-300',
     },
+    
 ]
 
 const fadeUp = {
