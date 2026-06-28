@@ -66,7 +66,7 @@ export default function Navbar() {
                 {/* Right: Download CV */}
                 <div className="hidden md:flex items-center gap-3">
                     <motion.a
-                        href="https://drive.google.com/file/d/17udE8Ij48bU87GqI4STpPCkg47odCc1s/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1-b6PDZHEUItj5y5CSi8hQKiO8t2OTeQQ/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         whileHover={{ scale: 1.05 }}
@@ -107,7 +107,7 @@ export default function Navbar() {
                         </a>
                     ))}
                     <a
-                        href="https://drive.google.com/file/d/17udE8Ij48bU87GqI4STpPCkg47odCc1s/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1-b6PDZHEUItj5y5CSi8hQKiO8t2OTeQQ/view?usp=sharing"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="flex items-center gap-2 px-4 py-2 mt-2 bg-gradient-to-r from-indigo-500 to-violet-600 text-white text-sm font-medium rounded-full w-fit"
